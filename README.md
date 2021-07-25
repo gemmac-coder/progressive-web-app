@@ -24,7 +24,3 @@ MIT
 ## Screenshots
 
 ![Screenshot showcasing budget tracker](public/assets/screenshots/budget-tracker-pwa.png)
-
-## Link to deployed application:
-
-https://workout-tracker-2021.herokuapp.com/
